@@ -1,0 +1,15 @@
+{
+  "Cadastro": [
+    {
+      "nome": "Rafael bolacha",
+      "email": "rafamergulha@hotmail.com",
+      "id": 1
+    },
+    {
+      "nome": "felipe mergulhao",
+      "email": "femergulha@hotmail.com",
+      "id": 2
+    }
+   
+  ]
+}
